@@ -1,0 +1,95 @@
+#main_banner{
+    list-style-type: none;
+}
+#main_banner>li{
+    float:left;
+    margin: 30px;
+}
+
+#board{
+    
+    font-size: 50px;
+    color: skyblue;
+    position: absolute;
+    text-align: center;
+}
+
+#side_banner{
+    position: absolute;
+    top:300px;
+}
+
+#side_banner>li{
+    list-style-type: none;
+    float: left;
+    margin: 30px;
+}
+
+hr{
+    color: red;
+    width: 5000px;
+    position: absolute;
+    top: 400px;
+    border: solid 2px;
+}
+
+#alert{
+    position: absolute;
+    top:500px;
+    color: red;
+}
+
+#new{
+    position: absolute;
+    font-size: 30px;
+    left:40px;
+    top:250px;
+}
+
+#back{
+    position:absolute;
+    font-size: 30px;
+    left:40px;
+    top:250px;
+}
+
+#new_post{
+    position: absolute;
+    font-size: 30px;
+    left:40px;
+    top:350px;
+}
+
+#title{
+    position: absolute;
+    font-size: 30px;
+    left:40px;
+    top:450px;
+}
+
+
+#contents{
+    position: absolute;
+    font-size: 30px;
+    left:40px;
+    top:550px;
+}
+
+#title_text{
+    position: absolute;
+    left:500px;
+    top:480px;
+}
+#contents_text{
+    position: absolute;
+    left:500px;
+    top:580px;
+}
+
+#submit{
+    position: absolute;
+    font-size: 30px;
+    color:gray;
+    left:40px;
+    top:650px;
+}
